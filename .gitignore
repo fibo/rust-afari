@@ -2,3 +2,6 @@
 *
 !/**/
 !*.*
+
+# cargo stuff
+target/
