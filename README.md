@@ -22,4 +22,4 @@ Set code formatting on save, add to vim config
 
 - [Rust by example](https://doc.rust-lang.org/rust-by-example/index.html)
 - [Rust online playground](https://play.rust-lang.org/)
-
+- [The Cargo Book](https://doc.rust-lang.org/cargo/)
