@@ -6,13 +6,24 @@ Start with [hello world](./hello-world/hello.rs).
 
 ## Install Rust
 
-To install Rust, you can just follow the installation steps [here](https://doc.rust-lang.org/book/ch01-01-installation.html). There are clear steps for getting Rust installed for Windows, Linux, and Mac.
+To install Rust, you can just follow the installation steps [here](https://doc.rust-lang.org/book/ch01-01-installation.html).
+There are clear steps for getting Rust installed for Windows, Linux, and Mac.
+
+## The book
+
+Read [The Rust Programming Language book online here](https://doc.rust-lang.org/book/) or read it offline launching
+
+```sh
+rustup docs --book
+```
 
 ## Editor integration
 
 Install [rustfmt](https://github.com/rust-lang/rustfmt) code formatter.
 
-    rustup component add rustfmt
+```sh
+rustup component add rustfmt
+```
 
 ### Vim
 
